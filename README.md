@@ -1,6 +1,8 @@
 # Vague Light
 
 A light colorscheme for Neovim based on the [vague.nvim](https://github.com/vague2k/vague.nvim) theme.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/77461588-5234-4150-aa1e-df1f86c5a4a2" />
+
 
 ## Installation
 
