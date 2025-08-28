@@ -130,31 +130,3 @@ require("vague").setup({
   },
 })
 ```
-
-## Explicitly Supported plugins
-
-- [Blink-cmp](https://github.com/Saghen/blink.cmp)
-- [Cmp](https://github.com/hrsh7th/nvim-cmp)
-- [Dashboard](https://github.com/nvimdev/dashboard-nvim)
-- [Diffview](https://github.com/sindrets/diffview.nvim)
-- [Gitsigns](https://github.com/lewis6991/gitsigns.nvim)
-- [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
-- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
-- [Neotest](https://github.com/nvim-neotest/neotest)
-- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
-- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-- [Treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
-- [Snacks](https://github.com/folke/snacks.nvim)
-- [Rainbow delimiters](https://github.com/hiphish/rainbow-delimiters.nvim)
-- [Mini](https://github.com/echasnovski/mini.nvim)
-- [Vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
-
-## Extras
-
-Extra color configs for other tools can be found in [extras](extras/).
-
-## Contributing
-
-PR's are welcome and encouraged.
-
-If you would like to propose support for a specific plugin, you can make a PR with your modifications to the `lua/vague/groups` directory
