@@ -1,0 +1,24 @@
+name: Vague Light
+background: '#f8f8f9'
+foreground: '#2e2e30'
+accent: '#4a6c8a'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#e8e8ed'
+    red: '#b8475b'
+    green: '#5d7b45'
+    yellow: '#d49a3d'
+    blue: '#4a6c8a'
+    magenta: '#8b6b8d'
+    cyan: '#7878a3'
+    white: '#2e2e30'
+  bright:
+    black: '#737382'
+    red: '#c55770'
+    green: '#70965a'
+    yellow: '#dba654'
+    blue: '#6b8aa3'
+    magenta: '#a085a2'
+    cyan: '#8e8eb4'
+    white: '#1a1a1c'
